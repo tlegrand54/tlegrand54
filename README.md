@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" alt="Packer" title="Packer" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" alt="vSphere" title="vSphere" width="45" height="45"/>
-  <br/><img src="https://img.shields.io/badge/vmware-aria_automation-blue?logo=vmware" alt="Aria Automation" title="Aria Automation"/>
+  <br/><img alt="Static Badge" src="https://img.shields.io/badge/vmware-aria_automation-blue?style=for-the-badge&logo=vmware">
 </p>
 
 ### 🔀 Source control & CI/CD
