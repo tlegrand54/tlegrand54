@@ -6,6 +6,7 @@
 
 - 🏢 Backend development with **C# / .NET**
 - 🌱 Currently learning **Node.js, NestJS and TypeScript**
+- 🤖 Using AI assistants (**Claude**, **GitHub Copilot**) to speed up development and learn new stacks
 - ⚙️ DevOps & automation: VMware (**vRO**), **Ansible**, **Docker**, **Kubernetes**
 - 🧵 Side projects: a static website built with **Astro**, a mobile app with **.NET MAUI**
 
@@ -54,7 +55,6 @@
   <br/><img src="https://img.shields.io/badge/vmware-aria_automation-blue?logo=vmware" alt="Aria Automation" title="Aria Automation"/>
 </p>
 
-
 ### 🔀 Source control & CI/CD
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>
@@ -80,6 +80,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="45" height="45"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scaleway/scaleway-original.svg" alt="Scaleway" title="Scaleway" width="45" height="45"/>
 </p>
+
+### 🤖 AI tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### 🎮 Hobbies
 <p>
