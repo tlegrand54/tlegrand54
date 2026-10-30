@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thomas (@tlegrand54)
 
-.NET developer with a strong background in enterprise software, now expanding into the Node.js / NestJS ecosystem. I also automate infrastructure with VMware vRealize Orchestrator.
+.NET developer with a strong background in enterprise software, now expanding into the Node.js / NestJS ecosystem. I also automate VMware infrastructure with Terraform, Ansible, and VMware vRealize Orchestrator.
 
 ## 🔭 What I work on
 
